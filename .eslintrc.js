@@ -17,6 +17,11 @@ module.exports = {
         'indent': 'off',
         'comma-dangle': 'off',
         'require-jsdoc': 'off',
-        'quotes': 'off'
+        'quotes': 'off',
+        'eol-last': 'off',
+        'space-before-blocks': 'off',
+        'arrow-parens': 'off',
+        'operator-linebreak': 'off',
+        'max-len': 'off'
     }
 }
