@@ -22,6 +22,7 @@ module.exports = {
         'space-before-blocks': 'off',
         'arrow-parens': 'off',
         'operator-linebreak': 'off',
-        'max-len': 'off'
+        'max-len': 'off',
+        'space-before-function-paren': 'off'
     }
 }
